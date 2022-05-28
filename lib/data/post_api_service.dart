@@ -1,4 +1,3 @@
-// ignore: import_of_legacy_library_into_null_safe
 import 'package:chopper/chopper.dart';
 
 // Source code generation in Dart works by creating a new file which contains a "companion class".
